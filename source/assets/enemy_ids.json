@@ -1,0 +1,8 @@
+{
+  "idList": ["dot_0", "target_0", "scope_0"],
+  "data": {
+    "dot_0": {"name": "Dot", "desc": "Weak, however, can evolve into all other cursors."},
+    "target_0": {"name": "Target", "desc": "Spawns on phase zero, can evolve into the scope."},
+    "scope_0": {"name": "Scope", "desc": "Spawns on phase zero, high weapon range"}
+  }
+}
